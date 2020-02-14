@@ -5,4 +5,4 @@ python: 3.7
 #        - pip3 install -r requirements.txt
 
 script:
-        - pytest
+        - pytest test_div_code.py
