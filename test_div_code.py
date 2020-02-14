@@ -5,5 +5,4 @@ class Test:
 
     def test_div(self):
         assert divide_number(3,5) == 3/5
-        assert divide_number(5,1) == 5
 
